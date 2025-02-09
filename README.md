@@ -4,35 +4,25 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python Version](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10-blue)
 
-> Aplikasi Django sederhana untuk manajemen tugas harian.
-
----
-
-## Daftar Isi
-
-- [Deskripsi Proyek](#deskripsi-proyek)
-- [Fitur](#fitur)
-- [Cara Menggunakan](#cara-menggunakan)
-- [Screenshots](#screenshots)
-- [Teknologi](#teknologi)
-- [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
+> Django Blog pake CSS Bootstrap
 
 ---
 
 ## Deskripsi Proyek
 
-My Awesome Project adalah aplikasi berbasis web untuk membantu Anda mengelola tugas harian. Aplikasi ini dibangun menggunakan Django dan PostgreSQL.
+Proyek Nguawor cik, cuma asal asalan sung coba aja 
 
 ---
 
 ## Fitur
 
-- ✅ Autentikasi pengguna dengan OAuth.
-- ✅ CRUD tugas dengan antarmuka yang responsif.
-- ✅ Notifikasi email untuk deadline tugas.
+- ✅ CRUD Doang
 
 ---
+
+## LTS
+
+Nantikan Apdet sekanjutnya, gwhj lagi malas, support pake semangat ajh
 
 ## Cara Menggunakan
 
@@ -45,8 +35,8 @@ My Awesome Project adalah aplikasi berbasis web untuk membantu Anda mengelola tu
 
 ```bash
 # Clone repositori
-git clone https://github.com/username/repo.git
-cd repo
+git clone https://github.com/panjivanleuven/django-blog.git
+cd django-blog
 
 # Buat virtual environment
 python3 -m venv venv
