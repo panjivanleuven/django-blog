@@ -31,7 +31,7 @@ Nantikan Apdet sekanjutnya, gwhj lagi malas, support pake semangat ajh
 - Python >= 3.8
 - Django >= 5.1.0
 
-### Instalasi
+### Instalasi Django
 
 ```bash
 # Pasang Django
@@ -40,6 +40,7 @@ pip install django==5.1.6
 # Bisa Juga Pakai
 pip install -r requirements.txt
 
+### Clone Repositori
 ```bash
 # Clone repositori
 git clone https://github.com/panjivanleuven/django-blog.git
