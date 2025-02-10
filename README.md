@@ -41,8 +41,8 @@ pip install django==5.1.6
 pip install -r requirements.txt
 ```
 
+### Clone Repository
 ```bash
-# Clone repositori
 git clone https://github.com/panjivanleuven/django-blog.git
 cd django-blog
 
