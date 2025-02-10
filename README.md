@@ -29,9 +29,16 @@ Nantikan Apdet sekanjutnya, gwhj lagi malas, support pake semangat ajh
 ### Prasyarat
 
 - Python >= 3.8
-- PostgreSQL
+- Django >= 5.1.0
 
 ### Instalasi
+
+```bash
+# Pasang Django
+pip install django==5.1.6
+
+# Bisa Juga Pakai
+pip install -r requirements.txt
 
 ```bash
 # Clone repositori
